@@ -30,23 +30,21 @@ OGF-AM（Open Governance Framework for Multi-Cloud Asset Management）は、複�
 
 ## Architecture Diagram (Abstract)
 
-## Architecture Diagram (Abstract)
-
 [ External Client / App / UI ]
-  │
-  ▼
+│
+▼
 **Layer 2: Semi-Autonomous Gatekeeper (Approval Barrier)**
-  - Multi-Party Authorization (e.g., Guardian / Admin)
-  │ (Validated State)
-  ▼
+- Multi-Party Authorization (e.g., Guardian / Admin)
+│
+▼
 **Layer 1: Core Governance Engine (Encapsulated)**
-  - Tax & Regulatory Adapters (J-Tax, SEC/FINRA, etc.)
-  - Wash-Sale & Capital Loss Offset Calculation
-  │ (Authorized Event)
-  ▼
+- Tax & Regulatory Adapters (J-Tax, SEC/FINRA, etc.)
+- Wash-Sale & Capital Loss Offset Calculation
+│
+▼
 **Layer 3: Integration Adapters (Vendor-Agnostic)**
-  - Cloud Adapters (AWS / GCP / Azure)
-  - Banking / Brokerage Core API Adapters
+- Cloud Adapters (AWS / GCP / Azure)
+- Banking / Brokerage Core API Adapters
 
 ## License & Terms of Use
 
