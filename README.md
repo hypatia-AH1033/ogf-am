@@ -62,3 +62,7 @@ Layer 3: Integration Adapters (Vendor-Agnostic)
 
 > **Contact / Inquiry**
 > 商用化のご相談、提携、および本アーキテクチャに関するディスカッションをご希望の場合は、[Issues] よりご連絡ください。
+
+## 📚 関連リンク / 記事
+- 📖 [Qiita: なぜ高度な金融システムに『セミオート型ガードレール』と『法規制アダプター分離パターン』が必要なのか？](https://qiita.com/hypatia_AH1033/items/08fb9b664e51e3e6e931)
+- 📝 [note: 財布の紐が固い金融機関も思わず財布を開く『オフェンス＆ディフェンス型』資産ガバナンス基盤という選択肢](https://note.com/hypatia_ah1033/n/nd0bc1b6512a8?app_launch=false)
