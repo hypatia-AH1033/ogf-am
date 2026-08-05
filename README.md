@@ -50,7 +50,7 @@ Layer 1: Core Governance Engine (Encapsulated)
 Layer 3: Integration Adapters (Vendor-Agnostic)
 - Cloud Adapters (AWS / GCP / Azure)
 - Banking / Brokerage Core API Adapters
-
+```
 ---
 
 「汎用モデル」および「GCP/AWS/NTTといった国内外の主要インフラストラクチャおよびドメスティックなレガシー環境を想定し、実際のBizDev・製品仕様（米国ウォッシュセール制御、ミニマムタックス、口座属性別課税等）を網羅したリファレンスモデルを作成・想定検証済み」を追加。
