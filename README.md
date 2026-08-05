@@ -3,6 +3,10 @@ OGF-AM (Open Governance Framework for Multi-Cloud Asset Management) is a vendor-
 --------------------------------------------------------------------------------------------------
 # Open Governance Framework for Multi-Cloud Asset Management (OGF-AM)
 
+> **An enterprise-grade, multi-cloud reference architecture designed to bridge complex tax/regulatory constraints (such as US wash-sales and Japanese financial compliance) with semi-automated governance gates.**
+
+---
+
 ## Overview
 OGF-AM（Open Governance Framework for Multi-Cloud Asset Management）は、複雑な法規制・税制制約を伴う高度な資産運用・決済処理において、「厳格なガバナンス（防衛）」と「柔軟な拡張性（攻め）」を両立するためのベンダーアグノスティックな抽象アーキテクチャ標準です。
 
@@ -46,6 +50,12 @@ Layer 1: Core Governance Engine (Encapsulated)
 Layer 3: Integration Adapters (Vendor-Agnostic)
 - Cloud Adapters (AWS / GCP / Azure)
 - Banking / Brokerage Core API Adapters
+
+---
+
+「汎用モデル」および「GCP/AWS/NTTといった国内外の主要インフラストラクチャおよびドメスティックなレガシー環境を想定し、実際のBizDev・製品仕様（米国ウォッシュセール制御、ミニマムタックス、口座属性別課税等）を網羅したリファレンスモデルを作成・想定検証済み」を追加。
+
+---
 
 ## License & Terms of Use
 
